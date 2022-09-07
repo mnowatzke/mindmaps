@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T16:49:18.078Z" agent="5.0 (Windows)" etag="1ETX2q5hX3MO6Q0fd7mw" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T19:02:16.724Z" agent="5.0 (Windows)" etag="nQIVnNP0JlsgwFKH4YJn" version="20.3.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1262" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1580" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,14 +30,14 @@
         <mxCell id="1752" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1754" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1753" value="Feedstock production" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1753" value="Feedstock production" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Open Sans Semibold;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BSemibold;" parent="1" vertex="1">
           <mxGeometry x="580" y="615.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1754" value="How much prairie can we produce?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="430" y="734.5" width="150" height="60" as="geometry" />
+        <mxCell id="1754" value="How much prairie can we produce?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
+          <mxGeometry x="420" y="780" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1756" value="How much feedstock does an AD need for stable production?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="430" y="490.5" width="150" height="60" as="geometry" />
+        <mxCell id="1756" value="How much feedstock does an AD need for stable production?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
+          <mxGeometry x="430" y="440" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1757" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;" parent="1" source="1760" target="1763" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,28 +48,25 @@
         <mxCell id="1759" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;" parent="1" source="1760" target="1761" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1760" value="Ecosystem services" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1760" value="Ecosystem services" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Open Sans Semibold;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BSemibold;" parent="1" vertex="1">
           <mxGeometry x="860" y="800.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1761" value="Content" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="880.5" width="150" height="60" as="geometry" />
+        <mxCell id="1761" value="Wildlife" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
+          <mxGeometry x="900" y="960" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1762" value="Budget" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="860" y="946.5" width="150" height="60" as="geometry" />
+        <mxCell id="1762" value="Water quality" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
+          <mxGeometry x="710" y="960" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1763" value="Analysis" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="660" y="880.5" width="150" height="60" as="geometry" />
+        <mxCell id="1763" value="GHG" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
+          <mxGeometry x="650" y="850" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R1FpLuPORpEcyNbvIzky-1779" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=14;strokeColor=#F08705;fontColor=#4D4D4D;shadow=0;startArrow=none;startFill=0;endFill=1;strokeWidth=3;spacing=5;" edge="1" parent="1" source="1764" target="UFMkILnt0X1RIdLAywtK-1788">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1764" value="Economics" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1764" value="Economics" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Open Sans Semibold;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BSemibold;" parent="1" vertex="1">
           <mxGeometry x="860" y="430.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1765" value="Aims&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="1085" y="380" width="150" height="60" as="geometry" />
+        <mxCell id="1765" value="What prices do we need to sell X?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="300" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1766" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;" parent="1" source="1764" target="1765" edge="1">
+        <mxCell id="1766" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1764" target="1765" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1768" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;entryX=0.494;entryY=0.891;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1764" target="UFMkILnt0X1RIdLAywtK-1779" edge="1">
@@ -77,47 +74,70 @@
             <mxPoint x="933.0080385852091" y="372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1771" value="LCA" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1771" value="LCA" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Open Sans Semibold;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BSemibold;" parent="1" vertex="1">
           <mxGeometry x="1160" y="615.4999999999999" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1772" value="Economics" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1772" value="Economics" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
           <mxGeometry x="1240" y="754.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1773" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1772" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1774" value="Energy" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1774" value="Energy" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
           <mxGeometry x="1370" y="664.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1775" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1774" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1776" value="GHG" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1776" value="GHG" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
           <mxGeometry x="1370" y="554.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1777" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1776" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1778" value="Nutrients" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="1778" value="Nutrients" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
           <mxGeometry x="1240" y="474.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1779" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1778" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UFMkILnt0X1RIdLAywtK-1779" value="Marketing" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="UFMkILnt0X1RIdLAywtK-1779" value="What&#39;s the cost to transport X?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
           <mxGeometry x="860" y="280" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UFMkILnt0X1RIdLAywtK-1781" value="" style="group;fontColor=#4D4D4D;" parent="1" vertex="1" connectable="0">
+        <mxCell id="UFMkILnt0X1RIdLAywtK-1781" value="" style="group;fontColor=#4D4D4D;fontFamily=Open Sans Light;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="330" y="585.5" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1755" value="How much perennial living cover (PLC) feedstocks can we produce?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="UFMkILnt0X1RIdLAywtK-1781" vertex="1">
+        <mxCell id="1755" value="How much perennial living cover (PLC) feedstocks can we produce?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="UFMkILnt0X1RIdLAywtK-1781" vertex="1">
           <mxGeometry y="-20" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UFMkILnt0X1RIdLAywtK-1780" value="&lt;font&gt;Prairie, cover crops&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#fad7ac;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontColor=#4D4D4D;" parent="UFMkILnt0X1RIdLAywtK-1781" vertex="1">
           <mxGeometry y="60" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UFMkILnt0X1RIdLAywtK-1788" value="&lt;font&gt;prairie, cover crop(s), biogas&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#fad7ac;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+        <mxCell id="UFMkILnt0X1RIdLAywtK-1788" value="What&#39;s the cost to produce X?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" parent="1" vertex="1">
           <mxGeometry x="615" y="300" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMS2UT6Q-2L_CKsOJg5A-1780" value="&lt;h1 style=&quot;font-size: 20px;&quot; align=&quot;left&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+Sans&quot; face=&quot;Open Sans&quot;&gt;Tweak&lt;/font&gt;&lt;/h1&gt;&lt;div align=&quot;left&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+Sans+Light&quot; face=&quot;Open Sans Light&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;What would Iowa and PA agriculture look like if we added annual cover crops, some more perennials on marginal land, and a digester&amp;nbsp; that uses animal manures, some grasses, cover crops, and other feedstocks.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#d5e8d4;fontFamily=Helvetica;fontSize=16;align=left;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-210" width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xMS2UT6Q-2L_CKsOJg5A-1781" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+Sans&quot; face=&quot;Open Sans&quot;&gt;Adapt&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+Sans+Light&quot; face=&quot;Open Sans Light&quot;&gt;What would Iowa and PA agriculture look like if we added annual cover crops, relay crops, more perennials on marginal land or entire fields, &lt;br&gt;and a digester&amp;nbsp; that uses less animal manures, more perennial grasses, and other feedstocks.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#dae8fc;fontFamily=Helvetica;fontSize=16;align=left;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;fillStyle=auto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-240" width="380" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="xMS2UT6Q-2L_CKsOJg5A-1782" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+Sans&quot; face=&quot;Open Sans&quot;&gt;Transform&lt;br&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Open+Sans+Light&quot; face=&quot;Open Sans Light&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;What would Iowa and PA agriculture look like if we added diverse cover crops on all acres, maximize perennials, community digesters that use even less animal manures, more perennials or entirely grasses and other &lt;br&gt;feedstocks.&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f8cecc;fontFamily=Helvetica;fontSize=16;align=left;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-270" width="425" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xMS2UT6Q-2L_CKsOJg5A-1783" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1764" target="UFMkILnt0X1RIdLAywtK-1788">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="809.996" y="381.0239999999999" as="targetPoint" />
+            <mxPoint x="810.6843533424716" y="474.49999999999955" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xMS2UT6Q-2L_CKsOJg5A-1784" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#4D4D4D;spacing=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="xMS2UT6Q-2L_CKsOJg5A-1785" source="1760">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1123.0250783699062" y="819.9999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xMS2UT6Q-2L_CKsOJg5A-1785" value="Soil health" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Open Sans Light;fontSize=14;fontColor=#4D4D4D;align=center;spacing=5;arcSize=7;perimeterSpacing=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DOpen%2BSans%2BLight;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="917.5" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
