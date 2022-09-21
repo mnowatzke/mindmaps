@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T19:33:49.096Z" agent="5.0 (Windows)" etag="o_vHH9_5qDAUiKXfXdPn" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T19:42:36.871Z" agent="5.0 (Windows)" etag="xzz0nhxB0OfFbJixV-nR" version="20.3.2" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="2844" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4063" dy="2257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,13 +80,13 @@
           <mxGeometry y="63.529411764705884" width="240" height="105.8823529411765" as="geometry" />
         </mxCell>
         <mxCell id="fsY-NsWyViT9tGZLsp4b-85" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1750" y="1040.0000000000005" width="240" height="428.2399999999998" as="geometry" />
+          <mxGeometry x="1750" y="1040.0000000000005" width="530" height="428.2399999999998" as="geometry" />
         </mxCell>
         <mxCell id="fsY-NsWyViT9tGZLsp4b-13" value="Where to sell it? On-farm energy?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="fsY-NsWyViT9tGZLsp4b-85" vertex="1">
           <mxGeometry y="354.12235294117636" width="240" height="74.11764705882354" as="geometry" />
         </mxCell>
         <mxCell id="fsY-NsWyViT9tGZLsp4b-12" value="Biogas Logistics" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;fontSize=21;whiteSpace=wrap;labelPosition=center;align=center;" parent="fsY-NsWyViT9tGZLsp4b-85" vertex="1">
-          <mxGeometry width="240" height="49.41176470588235" as="geometry" />
+          <mxGeometry width="480" height="49.41" as="geometry" />
         </mxCell>
         <mxCell id="fsY-NsWyViT9tGZLsp4b-9" value="How much feedstock is needed?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="fsY-NsWyViT9tGZLsp4b-85" vertex="1">
           <mxGeometry y="49.41176470588232" width="240" height="82.35294117647061" as="geometry" />
@@ -99,6 +99,15 @@
         </mxCell>
         <mxCell id="fsY-NsWyViT9tGZLsp4b-35" value="How much manure is expected?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="fsY-NsWyViT9tGZLsp4b-85" vertex="1">
           <mxGeometry y="131.76235294117623" width="240" height="74.11764705882354" as="geometry" />
+        </mxCell>
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-132" value="How often is digestate collected and when?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" vertex="1" parent="fsY-NsWyViT9tGZLsp4b-85">
+          <mxGeometry x="240" y="49.41176470588243" width="240" height="82.35294117647061" as="geometry" />
+        </mxCell>
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-135" value="How often is feedstock whed and when?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" vertex="1" parent="fsY-NsWyViT9tGZLsp4b-85">
+          <mxGeometry x="240" y="131.76176470588234" width="240" height="82.35294117647061" as="geometry" />
+        </mxCell>
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-145" value="What are the nutrient concentrations of digestate and liquid?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" vertex="1" parent="fsY-NsWyViT9tGZLsp4b-85">
+          <mxGeometry x="240" y="214.11176470588225" width="240" height="82.35294117647061" as="geometry" />
         </mxCell>
         <mxCell id="fsY-NsWyViT9tGZLsp4b-90" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1710" y="2380" width="260" height="571.75" as="geometry" />
