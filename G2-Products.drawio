@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T23:56:01.180Z" agent="5.0 (Windows)" etag="cHVe8a5_siR9ZbUS8H99" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T13:06:52.310Z" agent="5.0 (Windows)" etag="MW91w6y3Ayl9RzhUqfpf" version="20.3.3" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="3437" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4157" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c8OuSYFcTFagdocNcvec-1" value="Public Data Sources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;strokeColor=#999999;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=41;" vertex="1" parent="1">
+        <mxCell id="c8OuSYFcTFagdocNcvec-1" value="Public Data Sources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;strokeColor=#999999;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=41;" parent="1" vertex="1">
           <mxGeometry x="2280" y="210" width="1210" height="540" as="geometry" />
         </mxCell>
         <mxCell id="Bta4R8MGhBC_zZpxbiVx-288" value="Grand River Basin" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;labelBackgroundColor=none;fontSize=21;whiteSpace=wrap;labelPosition=center;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -160,14 +160,14 @@
         <mxCell id="Dde4bY2OQdOVmToiYL4m-6" value="gSSURGO" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#994C00;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2390" y="299.9994117647058" width="240" height="105.8823529411765" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-7" value="Nitrogen dynamics" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="3280.0023529411765" width="240" height="74.11764705882354" as="geometry" />
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-7" value="How is nitrogen cycling in the system? Where are prominent losses and loss reductions?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="3280" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-8" value="N2O" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="3280.0023529411765" width="240" height="74.11764705882354" as="geometry" />
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-8" value="How much nitrous oxide is being produced or mitigated via management changes?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1960" y="3280" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-9" value="Habitat" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2490" y="3280.0023529411765" width="240" height="74.11764705882354" as="geometry" />
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-9" value="How much habitat can be provided for additional wildlife?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2490" y="3280" width="240" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Dde4bY2OQdOVmToiYL4m-12" value="Perennial placement" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#006633;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="3030" y="2090.0023529411765" width="240" height="74.11764705882354" as="geometry" />
@@ -178,8 +178,8 @@
         <mxCell id="Dde4bY2OQdOVmToiYL4m-14" value="Cover crop placement" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#006633;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="3360" y="2090.0023529411765" width="240" height="74.11764705882354" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-15" value="P dynamics" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="3280.0023529411765" width="240" height="74.11764705882354" as="geometry" />
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-15" value="How do P dynamics change between systems? Where can we prevent P losses and recycle P? When will there be too much P in these systems?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="3280" width="240" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Dde4bY2OQdOVmToiYL4m-18" value="Dairy Cropping Systems" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;labelBackgroundColor=none;fontSize=21;whiteSpace=wrap;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="2480" y="2380" width="260" height="190" as="geometry" />
@@ -331,11 +331,11 @@
         <mxCell id="fsY-NsWyViT9tGZLsp4b-89" value="Soybeans" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#336600;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="548.827938016771" width="260" height="95.29308979293727" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-49" value="Biogas, energy production" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="3280.0023529411765" width="240" height="74.11764705882354" as="geometry" />
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-49" value="How much biogas can we produce? What are the different energy potentials and losses between feedstocks?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="3280" width="240" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-50" value="Fertilizer management" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="830" y="3280.0023529411765" width="240" height="74.11764705882354" as="geometry" />
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-50" value="How do the different fertilizer management practices differ? Where can we recycle nutrients better?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="830" y="3280" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="fsY-NsWyViT9tGZLsp4b-71" value="Suraj, Lisa, J." style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;fontSize=21;whiteSpace=wrap;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="1630" y="1720" width="240" height="49.41176470588235" as="geometry" />
@@ -523,8 +523,8 @@
         <mxCell id="Dde4bY2OQdOVmToiYL4m-82" value="Prairie" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#4C0099;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2130" y="2570" width="260" height="82.06" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-85" value="SOC" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="3280.0023529411765" width="240" height="74.11764705882354" as="geometry" />
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-85" value="Where do we see increases, decreases, and stable SOC? What are the interactions of SOC in these different systems?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="3280" width="240" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Dde4bY2OQdOVmToiYL4m-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#333333;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="fsY-NsWyViT9tGZLsp4b-67" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -637,11 +637,11 @@
         <mxCell id="Dde4bY2OQdOVmToiYL4m-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#333333;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="fsY-NsWyViT9tGZLsp4b-67" target="Dde4bY2OQdOVmToiYL4m-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-120" value="Carbon" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="3280.0023529411765" width="240" height="74.11764705882354" as="geometry" />
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-120" value="What is the carbon intensity (CO2-e) of these different practices? How is C cycled?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="270" y="3280" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-122" value="CH4" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="3280.0023529411765" width="240" height="74.11764705882354" as="geometry" />
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-122" value="How much methane is being produced or mitigated via management changes?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2220" y="3280" width="240" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Dde4bY2OQdOVmToiYL4m-123" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#333333;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="fsY-NsWyViT9tGZLsp4b-75" target="Dde4bY2OQdOVmToiYL4m-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -678,11 +678,38 @@
         <mxCell id="Dde4bY2OQdOVmToiYL4m-131" value="N" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#4C0099;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2820" y="2734.12" width="260" height="82.06" as="geometry" />
         </mxCell>
-        <mxCell id="c8OuSYFcTFagdocNcvec-2" value="GNATSGO" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#994C00;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="c8OuSYFcTFagdocNcvec-2" value="GNATSGO" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#994C00;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="3180" y="428.8194117647058" width="240" height="105.8823529411765" as="geometry" />
         </mxCell>
-        <mxCell id="c8OuSYFcTFagdocNcvec-3" value="NLDAS2" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#994C00;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="c8OuSYFcTFagdocNcvec-3" value="NLDAS2" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#994C00;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2390" y="548.8294117647058" width="240" height="105.8823529411765" as="geometry" />
+        </mxCell>
+        <mxCell id="1B5hLBpKsFnjnsf2RV8G-2" value="Carbon Cycling" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3440" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B5hLBpKsFnjnsf2RV8G-3" value="SOC Dynamics" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="550" y="3470" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B5hLBpKsFnjnsf2RV8G-4" value="Fertilizer Management" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="830" y="3450" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B5hLBpKsFnjnsf2RV8G-5" value="Biogas Production" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="3450" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B5hLBpKsFnjnsf2RV8G-6" value="Phosphorous Dynamics " style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="3540" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B5hLBpKsFnjnsf2RV8G-7" value="Nitrogen" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="3440" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B5hLBpKsFnjnsf2RV8G-8" value="N2O" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="3420" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B5hLBpKsFnjnsf2RV8G-9" value="CH4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="3410" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1B5hLBpKsFnjnsf2RV8G-10" value="Habitat" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="2490" y="3410" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
