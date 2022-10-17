@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T15:37:30.185Z" agent="5.0 (Windows)" etag="uhbqx4LufI0vInWO8PR3" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T15:38:26.551Z" agent="5.0 (Windows)" etag="awbQVEvEuHsUjteqdghk" version="20.4.1" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="3555" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" background="#ffffff" math="0" shadow="0">
       <root>
@@ -302,27 +302,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-57" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1170" y="2390" width="260" height="560.5999999999995" as="geometry" />
-        </mxCell>
-        <mxCell id="Bta4R8MGhBC_zZpxbiVx-249" value="SOC" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#4C0099;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="Dde4bY2OQdOVmToiYL4m-57" vertex="1">
-          <mxGeometry y="190" width="260" height="74.12" as="geometry" />
-        </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-17" value="Sievers Farm" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.corner_round_rect;dx=6;labelBackgroundColor=none;fontSize=21;whiteSpace=wrap;labelPosition=center;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Dde4bY2OQdOVmToiYL4m-57" vertex="1">
-          <mxGeometry width="260" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-34" value="N" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#4C0099;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="Dde4bY2OQdOVmToiYL4m-57" vertex="1">
-          <mxGeometry y="264.1199999999999" width="260" height="74.12" as="geometry" />
-        </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-35" value="P" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#4C0099;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="Dde4bY2OQdOVmToiYL4m-57" vertex="1">
-          <mxGeometry y="338.2399999999998" width="260" height="74.12" as="geometry" />
-        </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-36" value="K" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#4C0099;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="Dde4bY2OQdOVmToiYL4m-57" vertex="1">
-          <mxGeometry y="412.3599999999997" width="260" height="74.12" as="geometry" />
-        </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-37" value="Techno-economic LCA" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#4C0099;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="Dde4bY2OQdOVmToiYL4m-57" vertex="1">
-          <mxGeometry y="486.47999999999956" width="260" height="74.12" as="geometry" />
-        </mxCell>
         <mxCell id="Dde4bY2OQdOVmToiYL4m-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#333333;" parent="1" source="cpoO33E2cY1CjBKNhvb5-1" target="Bta4R8MGhBC_zZpxbiVx-300" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -458,24 +437,6 @@
         <mxCell id="Dde4bY2OQdOVmToiYL4m-85" value="Where do we see increases, decreases, and stable SOC? What are the interactions of SOC in these different systems?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="730" y="3290" width="240" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#333333;strokeColor=#82b366;fillColor=#d5e8d4;shape=flexArrow;" parent="1" source="Dde4bY2OQdOVmToiYL4m-37" target="Dde4bY2OQdOVmToiYL4m-50" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1260" y="2951" />
-              <mxPoint x="1260" y="3100" />
-              <mxPoint x="1130" y="3100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#333333;strokeColor=#82b366;fillColor=#d5e8d4;shape=flexArrow;" parent="1" source="Dde4bY2OQdOVmToiYL4m-37" target="Dde4bY2OQdOVmToiYL4m-49" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1330" y="2951" />
-              <mxPoint x="1330" y="3100" />
-              <mxPoint x="1410" y="3100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Dde4bY2OQdOVmToiYL4m-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#333333;entryX=0.25;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="fsY-NsWyViT9tGZLsp4b-65" target="Dde4bY2OQdOVmToiYL4m-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1820" y="3220" as="targetPoint" />
@@ -515,9 +476,6 @@
               <mxPoint x="1350" y="3200" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontColor=#333333;shape=flexArrow;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="Dde4bY2OQdOVmToiYL4m-37" target="Dde4bY2OQdOVmToiYL4m-85" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dde4bY2OQdOVmToiYL4m-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontColor=#333333;shape=flexArrow;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="fsY-NsWyViT9tGZLsp4b-65" target="Dde4bY2OQdOVmToiYL4m-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
