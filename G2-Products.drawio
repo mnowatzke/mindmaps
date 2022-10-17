@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T19:05:25.946Z" agent="5.0 (Windows)" etag="l2ncnPHHrYubdh3BaLtz" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T13:38:49.857Z" agent="5.0 (Windows)" etag="WYqDPlBBo2H4pkAwFPsU" version="20.4.0" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="2946" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4715" dy="2228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
         <mxCell id="fsY-NsWyViT9tGZLsp4b-35" value="How much manure is expected?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#3871AB;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="fsY-NsWyViT9tGZLsp4b-85" vertex="1">
           <mxGeometry y="131.76235294117623" width="240" height="74.11764705882354" as="geometry" />
         </mxCell>
-        <mxCell id="Dde4bY2OQdOVmToiYL4m-132" value="How often is digestate collected and when?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#3871AB;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="fsY-NsWyViT9tGZLsp4b-85" vertex="1">
+        <mxCell id="Dde4bY2OQdOVmToiYL4m-132" value="How often is digestate collected and when?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="fsY-NsWyViT9tGZLsp4b-85" vertex="1">
           <mxGeometry x="240" y="49.41176470588243" width="240" height="82.35294117647061" as="geometry" />
         </mxCell>
         <mxCell id="Dde4bY2OQdOVmToiYL4m-135" value="How often is feedstock harvested and when?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="fsY-NsWyViT9tGZLsp4b-85" vertex="1">
@@ -112,7 +112,7 @@
         <mxCell id="Dde4bY2OQdOVmToiYL4m-145" value="What are the nutrient concentrations of digestate and liquid?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="fsY-NsWyViT9tGZLsp4b-85" vertex="1">
           <mxGeometry x="240" y="214.11176470588225" width="240" height="82.35294117647061" as="geometry" />
         </mxCell>
-        <mxCell id="Eyr796l0jvcdmsgNZFkE-1" value="How far can we transport digestate?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" vertex="1" parent="fsY-NsWyViT9tGZLsp4b-85">
+        <mxCell id="Eyr796l0jvcdmsgNZFkE-1" value="How far can we transport digestate?" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="fsY-NsWyViT9tGZLsp4b-85" vertex="1">
           <mxGeometry x="240" y="296.46176470588216" width="240" height="82.35294117647061" as="geometry" />
         </mxCell>
         <mxCell id="fsY-NsWyViT9tGZLsp4b-90" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -891,6 +891,12 @@
               <mxPoint x="3270" y="1530" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BmgUFhu5WxsnTRIjqabK-1" value="Data missing or unknown" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="1039.9958823529412" width="240" height="91.17647058823529" as="geometry" />
+        </mxCell>
+        <mxCell id="BmgUFhu5WxsnTRIjqabK-2" value="Data available/ known" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#3871AB;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="1160.0017647058828" width="240" height="82.35294117647061" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
