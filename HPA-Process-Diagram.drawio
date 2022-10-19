@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T19:45:02.803Z" agent="5.0 (Windows)" etag="geZLWapzlPA4E0Yo0xGr" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T20:05:05.647Z" agent="5.0 (Windows)" etag="siJYKWgxCYY7cBDE1awI" version="20.4.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="981" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,13 +22,13 @@
         <mxCell id="dC2aLsNPClo29It74Rl8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Garamond;" edge="1" parent="1" source="dC2aLsNPClo29It74Rl8-6" target="dC2aLsNPClo29It74Rl8-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dC2aLsNPClo29It74Rl8-6" value="Participant Recruitment (snowball sampling)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="dC2aLsNPClo29It74Rl8-6" value="Participant Recruitment and Screening" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dC2aLsNPClo29It74Rl8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;" edge="1" parent="1" source="dC2aLsNPClo29It74Rl8-7" target="dC2aLsNPClo29It74Rl8-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dC2aLsNPClo29It74Rl8-7" value="Semi-Structured Interviews" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="dC2aLsNPClo29It74Rl8-7" value="Semi-Structured Interviews (n=10)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="130" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dC2aLsNPClo29It74Rl8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;" edge="1" parent="1" source="dC2aLsNPClo29It74Rl8-8" target="dC2aLsNPClo29It74Rl8-10">
@@ -37,7 +37,10 @@
         <mxCell id="dC2aLsNPClo29It74Rl8-8" value="Interview Audio Recordings" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dC2aLsNPClo29It74Rl8-9" value="Selected Quotes&lt;br&gt;(469 &#39;Nuggets&#39;)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
+        <mxCell id="dC2aLsNPClo29It74Rl8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;" edge="1" parent="1" source="dC2aLsNPClo29It74Rl8-9" target="dC2aLsNPClo29It74Rl8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dC2aLsNPClo29It74Rl8-9" value="Important Quotes (n=469)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dC2aLsNPClo29It74Rl8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Garamond;" edge="1" parent="1" source="dC2aLsNPClo29It74Rl8-10" target="dC2aLsNPClo29It74Rl8-9">
@@ -45,6 +48,9 @@
         </mxCell>
         <mxCell id="dC2aLsNPClo29It74Rl8-10" value="Audio Transcriptions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
           <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dC2aLsNPClo29It74Rl8-18" value="Distilled, Shortened Quotes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
