@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T15:51:15.020Z" agent="5.0 (Windows)" etag="_6efZB4IYLmdEeMVbJqH" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T16:43:49.539Z" agent="5.0 (Windows)" etag="lZQz45H_7657UbV9M7TY" version="20.4.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,10 +76,10 @@
         <mxCell id="dC2aLsNPClo29It74Rl8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Garamond;" parent="1" source="dC2aLsNPClo29It74Rl8-26" target="dC2aLsNPClo29It74Rl8-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dC2aLsNPClo29It74Rl8-26" value="Identified Groupings from AD Sessions&lt;br&gt;(n=44)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="dC2aLsNPClo29It74Rl8-26" value="Identified Groupings (n=44) from Affinity Diagram Session" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="320" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cXyd84Qv458v9EHgEkIC-1" value="Final Themes Identified from AD Groupings&lt;br&gt;(n=12)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cXyd84Qv458v9EHgEkIC-1" value="Final Themes Identified (n=12) from Second Grouping Exercise" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Garamond;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="500" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
