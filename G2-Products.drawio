@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T16:04:53.930Z" agent="5.0 (Windows)" etag="zlCEfRqeEVBAaK3UDf_6" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T16:06:32.674Z" agent="5.0 (Windows)" etag="LaXwrERIpT_vf_p9cBhV" version="20.8.22" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="3771" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3800" pageHeight="3700" background="#ffffff" math="0" shadow="0">
       <root>
@@ -298,7 +298,7 @@
         <mxCell id="Bta4R8MGhBC_zZpxbiVx-219" value="Prairie" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#3871AB;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="Dde4bY2OQdOVmToiYL4m-77" vertex="1">
           <mxGeometry y="145.88235294117658" width="240" height="82.05882352941177" as="geometry" />
         </mxCell>
-        <mxCell id="Bta4R8MGhBC_zZpxbiVx-223" value="Winter crops" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="Dde4bY2OQdOVmToiYL4m-77" vertex="1">
+        <mxCell id="Bta4R8MGhBC_zZpxbiVx-223" value="Winter crops @ 75% cellulosic content" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#FF6666;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" parent="Dde4bY2OQdOVmToiYL4m-77" vertex="1">
           <mxGeometry y="227.9411764705883" width="240" height="82.05882352941177" as="geometry" />
         </mxCell>
         <mxCell id="Dde4bY2OQdOVmToiYL4m-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#333333;" parent="1" source="cpoO33E2cY1CjBKNhvb5-4" target="Bta4R8MGhBC_zZpxbiVx-288" edge="1">
@@ -867,6 +867,12 @@
         </mxCell>
         <mxCell id="omhRmMq6EFeBfskwNLl--20" value="Switchgrass" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#3871AB;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1550" y="1652.3511764705881" width="240" height="82.05882352941177" as="geometry" />
+        </mxCell>
+        <mxCell id="omhRmMq6EFeBfskwNLl--21" value="N2O vs CH4 vs CO2!" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=19;plain-purple;strokeColor=none;fillColor=#660000;gradientColor=none;spacing=6;verticalAlign=middle;sketch=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="3290" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="omhRmMq6EFeBfskwNLl--22" value="GHG Comparisons" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="3420" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
